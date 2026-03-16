@@ -1,5 +1,5 @@
 package cloneproject.Instagram.entity.member;
 
-public enum Gender {
-    MALE, FEMALE, PRIVATE;
+public enum ImageType{
+    PNG, JPG, JPEG;
 }
